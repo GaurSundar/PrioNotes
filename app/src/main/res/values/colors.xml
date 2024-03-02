@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="pinkish">#e75480</color>
     <color name="colorprimary">#FFB52E</color>
+    <color name="red">#C32C28</color>
     <color name="colorAccent">#FFB52E</color>
 </resources>

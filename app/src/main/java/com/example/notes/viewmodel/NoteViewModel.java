@@ -1,10 +1,12 @@
-package com.example.notes;
+package com.example.notes.viewmodel;
 
 import android.app.Application;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
+
+import com.example.notes.model.Note;
 
 import java.util.List;
 

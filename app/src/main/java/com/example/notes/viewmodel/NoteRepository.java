@@ -1,9 +1,13 @@
-package com.example.notes;
+package com.example.notes.viewmodel;
 
 import android.app.Application;
 import android.os.AsyncTask;
 
 import androidx.lifecycle.LiveData;
+
+import com.example.notes.model.Note;
+import com.example.notes.model.NoteDao;
+import com.example.notes.model.NoteDatabase;
 
 import java.util.List;
 
